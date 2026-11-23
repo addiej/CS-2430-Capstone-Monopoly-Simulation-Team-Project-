@@ -1,4 +1,4 @@
-TASK                     | STATUS   |  PERSON  |  Evidence
+TASK                     | STATUS   |  PERSON  |  EVIDENCE
 -----------------------------------------------------------
 Created Project Plan.md  | Complete | Addie    | 
 
